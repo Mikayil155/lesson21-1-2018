@@ -1,0 +1,49 @@
+.color1{
+        height:150px;
+        background-color:blue;
+        align-self: start;
+        
+    } .color2{
+        height:150px;
+        background-color:red;
+        align-self: center;
+    } .wrapper{
+        height:450px;
+        justify-content: center;
+        flex-wrap:wrap;
+        display:flex;
+    }
+     .color3{
+        height:150px;
+        background-color:green;
+        align-self: flex-end
+    }
+    .wrapper div{
+        width:33.3%;
+        
+        
+    }
+    .wrapper2 div{
+        width:33.3%;
+        
+        
+    }
+
+
+    .color4{
+        background-color:black;
+        height:150px;
+        align-self:flex-end;
+    }
+    .color5{
+        background-color:yellow;
+        height:150px;
+        align-self:start;
+        
+    }
+    .wrapper2{
+        height:300px;
+        justify-content: flex-start;
+        flex-wrap:wrap;
+        display:flex;
+    }
